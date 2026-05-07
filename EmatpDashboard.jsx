@@ -3,7 +3,7 @@ import {
   Home, Clock, BookOpen, User,
   LogOut, Calendar, Send, GraduationCap, Megaphone
 } from "lucide-react";
-import logoEscuela from "../assets/LOGO 1.png";
+const logoEscuela = "https://i.ibb.co/v4m6pM8/LOGO-1.png";
 import "./EmatpDashboard.css";
 
 // ── Datos de ejemplo ───────────────────────────────────────────────────────
